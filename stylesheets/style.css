@@ -1,0 +1,222 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+    color: black;
+}
+#section_normal_1 {
+    height: 53px;
+    border-bottom: solid 5px #dadada;
+    padding: 17px;
+}
+#section_normal_1 .alpha {
+width: 50%;
+float: left;
+padding-top: 10px;
+}
+#section_normal_1 .omega {
+    width: 30%;
+    float: right;
+    text-align: right;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#section_normal_1 .alpha .img{
+    height: 38px;
+}
+#section_normal_1 .omega .social_button {
+    float: right;
+    margin-left:5px ;
+    margin-right: 5px;
+}
+#section_normal_1 .omega .htext_style{
+    float: right;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: 500;
+    color: #bcbcbc;
+    font-size: 16px;
+}
+
+#section_normal_4_2 {
+    background-color: #333;
+    height: 650px;
+
+
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#section_normal_4_2 .alpha .img_style{
+    margin-top: 25px;
+    height: 530px;
+}
+#section_normal_4_2 .alpha{
+    width: 575px;
+    float: left;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+#section_normal_4_2 .omega{
+    width: 625px;
+    height: 520px;
+    float: right;
+    padding-left: 25px;
+    padding-top: 60px;
+    line-height: 30px;
+}
+#section_normal_4_2 .container {
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section_normal_4_2 .big_text{
+    font-size: 31px;
+}
+
+#section_normal_4_2 .blue_text{
+    color: #2dc0e8;
+}
+
+#section_normal_4_2 .bold_text {
+    font-weight: 600;
+}
+
+#section_normal_4_2 .big_title{
+    font-size: 66px;
+    line-height: 60px;
+}
+#section_normal_4_2 .editContent{
+    margin: 19px;
+}
+
+#section_normal_4_2 .big_title{
+    font-weight: 650;
+    color: white;
+}
+#section_normal_4_2 .normal_text{
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(163, 155, 155);
+    line-height: 27px;
+}
+#section_normal_4_2 .fas{
+    margin: 5px;
+}
+#section_normal_4_2 .pi{
+    padding: auto;
+}
+
+
+#section_normal_6{
+    background-color: #f0ecec;
+    margin-top: -29px;
+
+}
+ .L1_style {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    font-size: 25px;
+    font-weight: 5px;
+    text-align: center;
+    line-height: 80px;
+}
+
+.L2_style {
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 15px;
+    color: #bcbcbc;
+}
+
+#pixfort_normal_1.container {
+    width: 1400px;
+    height: 400px;
+    display: flexbox;
+}
+.containerallin{
+    height: 172px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerflex{
+    display: flex ;
+    padding: 20px;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 870px;
+}
+
+.pix_builder_bg{
+    display: flex;
+}
+.b_style {
+    background-color: rgb(245 245 245);
+    padding: 20px;
+}
+.logo_style{
+    border-radius: 100px;
+}
+.stbox{
+    height: 120px;
+    width: 500px;
+    margin: 5px;
+    background-color: white ;
+    display: flex;
+    border-bottom: 2px solid #333;
+}
+.txt_style{
+    padding: 10px;
+}
+
+#section_agency_5{
+    background-color: rgb(255 255 255);
+    text-align: center;
+    padding: 30px;
+
+}
+.f1_style{
+    margin-bottom: 30px;
+}
+
+.f2_style{
+    width: 430px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.pix_text{
+    color: rgb(198 198 198);
+}
+.second_link{
+
+    width: 200px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(77 140 90);
+    margin-bottom: 30px;
+}
+.clearfix{
+    margin-top: 30px;
+}
